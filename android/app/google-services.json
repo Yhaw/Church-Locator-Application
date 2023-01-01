@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "752351409636",
+    "project_id": "church-locator-a44d4",
+    "storage_bucket": "church-locator-a44d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752351409636:android:7abc7e6f2b1f73513883f1",
+        "android_client_info": {
+          "package_name": "com.example.church_finder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "752351409636-s7s8rgcc4vifpiv3rgaig1a2f2hd3s23.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBA6i8hLg9a4eNtiCEYvxbMIR84XzhBFMs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "752351409636-s7s8rgcc4vifpiv3rgaig1a2f2hd3s23.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
